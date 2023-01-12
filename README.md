@@ -34,7 +34,7 @@ Then, we look into creating a time series model with Prophet and try to understa
 
 ## 1. Installation
 
-  If you would like to clone the repository, type "git clone https://github.com/kheller18/crypto-machine-learning.git".
+  If you would like to clone the repository, type "git clone https://github.com/kheller18/forecasting-net-prophet.git".
   In the terminal, with the conda dev environment activated, install the following packages and dependencies before running the crime analysis application. To understand how to install these, refer to the [Usage](#2-usage)
 
   * [csv](https://docs.python.org/3/library/csv.html) - Used to store all of our SPD data
